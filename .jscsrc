@@ -1,0 +1,9 @@
+{
+	"esnext": true,
+	"preset": "airbnb",
+	"verbose": true,
+	"validateIndentation": "\t",
+	"disallowSpacesInsideParentheses": {
+		"only": []
+	}
+}
